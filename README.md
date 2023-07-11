@@ -1,4 +1,4 @@
-<h1>Hi, I'm Trent</h1>
+<h1>Hi, I'm Trent :) </h1>
 
 <h2> Information Technology Projects:</h2>
 
