@@ -9,5 +9,6 @@
  - [Configuring Active Directory within Azure Virtual Machines](https://github.com/trentnreed/configure-ad)
  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/trentnreed/azure-network-protocols)
 
-<h2> Connect with me!: </h2>
+<h2> Contact Me: </h2>
 
+[<img align="left" alt="Trent | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon/instagram.svg"/>][instagram]
