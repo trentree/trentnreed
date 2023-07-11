@@ -15,4 +15,4 @@
 [<img align="left" alt="Trent | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][Twitter]
 
 [instagram]: https://www.instagram.com/trentnreed
-[twitter]: https://www.twitter.com/kensanxx
+[twitter]: https://www.twitter.com/trentnreed
