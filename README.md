@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/trentree/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/trentree/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure Virtual Machines](https://github.com/trentnreed/configure-ad)
-  - [Network Security Groups and Inspecting Network Protocols](https://github.com/trentnreed/azure-network-protocols)
+  - [Configuring Active Directory within Azure Virtual Machines](https://github.com/trentree/configure-ad)
+  - [Network Security Groups and Inspecting Network Protocols](https://github.com/trentree/azure-network-protocols)
 
 <h2> Contact Me: </h2>
 
